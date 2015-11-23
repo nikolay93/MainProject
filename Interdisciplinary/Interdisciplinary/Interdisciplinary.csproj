@@ -9,7 +9,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
+<<<<<<< HEAD
     <ProjectGuid>{5735426C-5B36-45CA-B32C-F3D688B44293}</ProjectGuid>
+=======
+    <ProjectGuid>{273DECDB-BAD4-402F-BE15-F18B7819D2C5}</ProjectGuid>
+>>>>>>> refs/remotes/faregon/master
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -94,6 +98,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Controllers\HomeController.cs" />
+>>>>>>> refs/remotes/faregon/master
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -111,8 +119,13 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+<<<<<<< HEAD
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+=======
+    <Folder Include="Models\" />
+    <Folder Include="Views\Home\" />
+>>>>>>> refs/remotes/faregon/master
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -127,9 +140,15 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
+<<<<<<< HEAD
           <DevelopmentServerPort>54980</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:54980/</IISUrl>
+=======
+          <DevelopmentServerPort>63443</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:63443/</IISUrl>
+>>>>>>> refs/remotes/faregon/master
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

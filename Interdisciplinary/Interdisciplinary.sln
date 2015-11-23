@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio Express 14 for Web
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interdisciplinary", "Interdisciplinary\Interdisciplinary.csproj", "{5735426C-5B36-45CA-B32C-F3D688B44293}"
+=======
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interdisciplinary", "Interdisciplinary\Interdisciplinary.csproj", "{273DECDB-BAD4-402F-BE15-F18B7819D2C5}"
+>>>>>>> refs/remotes/faregon/master
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +18,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{5735426C-5B36-45CA-B32C-F3D688B44293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5735426C-5B36-45CA-B32C-F3D688B44293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5735426C-5B36-45CA-B32C-F3D688B44293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5735426C-5B36-45CA-B32C-F3D688B44293}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{273DECDB-BAD4-402F-BE15-F18B7819D2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273DECDB-BAD4-402F-BE15-F18B7819D2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273DECDB-BAD4-402F-BE15-F18B7819D2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273DECDB-BAD4-402F-BE15-F18B7819D2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> refs/remotes/faregon/master
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
